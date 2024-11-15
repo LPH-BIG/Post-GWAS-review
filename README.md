@@ -16,7 +16,9 @@ This repository serves as a resource for a comprehensive summary of current post
 - [Transcriptome-Wide Association Study](#Transcriptome-Wide-Association-Study)
 
 ## Tissue and Cell-Type Specificity
-- Resources and tools for investigating tissue and cell-type specificity in GWAS studies.
+1. [2024 Brief Bioinform] **stDiff: a diffusion model for imputing spatial transcriptomics through single-cell transcriptomics** [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11021815/)
+2. [2015 Nature Communications] **Biological interpretation of genome-wide association studies using predicted gene functions** [[paper]](https://pmc.ncbi.nlm.nih.gov/articles/PMC4420238/)
+3. [2024 Brief Bioinform] **stDiff: a diffusion model for imputing spatial transcriptomics through single-cell transcriptomics** [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11021815/)
 
 ## Target Genes
 - Approaches and databases for identifying target genes associated with GWAS variants.
